@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Random frontend guys <br>
+- Random frontend guy <br>
 - Just chilling around here
 
 # 💻 Tech Stack:
